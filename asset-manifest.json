@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/Portfolio/static/css/main.4b2ae505.css",
-    "main.js": "/Portfolio/static/js/main.9c2306f8.js",
+    "main.js": "/Portfolio/static/js/main.d9379ddf.js",
     "static/js/787.5f000746.chunk.js": "/Portfolio/static/js/787.5f000746.chunk.js",
     "static/media/Rag.png": "/Portfolio/static/media/Rag.28ff34f7e1efb0845079.png",
     "static/media/Score.png": "/Portfolio/static/media/Score.51b100ee0231f2498d0b.png",
@@ -18,8 +18,6 @@
     "static/media/proyecto-5-com.png": "/Portfolio/static/media/proyecto-5-com.6ba644471266de376326.png",
     "static/media/proyecto-11-com.png": "/Portfolio/static/media/proyecto-11-com.f62a13d09a93136aaab3.png",
     "static/media/proyecto-6-com.png": "/Portfolio/static/media/proyecto-6-com.793e6636e20b75e30b41.png",
-    "static/media/RohitResume.pdf": "/Portfolio/static/media/RohitResume.57d539db4550798afe9a.pdf",
-    "static/media/cv.pdf": "/Portfolio/static/media/cv.57d539db4550798afe9a.pdf",
     "static/media/proyecto-13-com.png": "/Portfolio/static/media/proyecto-13-com.798c1312c93abea278de.png",
     "static/media/proyecto-app-18.png": "/Portfolio/static/media/proyecto-app-18.c16988d3951b4def8074.png",
     "static/media/proyecto-3.jpg": "/Portfolio/static/media/proyecto-3.7168325618a89d9a0f5c.jpg",
@@ -64,11 +62,11 @@
     "static/media/proyecto-app-2.jpg": "/Portfolio/static/media/proyecto-app-2.5d8ddf1cc2638b419fd5.jpg",
     "index.html": "/Portfolio/index.html",
     "main.4b2ae505.css.map": "/Portfolio/static/css/main.4b2ae505.css.map",
-    "main.9c2306f8.js.map": "/Portfolio/static/js/main.9c2306f8.js.map",
+    "main.d9379ddf.js.map": "/Portfolio/static/js/main.d9379ddf.js.map",
     "787.5f000746.chunk.js.map": "/Portfolio/static/js/787.5f000746.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.4b2ae505.css",
-    "static/js/main.9c2306f8.js"
+    "static/js/main.d9379ddf.js"
   ]
 }
